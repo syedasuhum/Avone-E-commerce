@@ -1,0 +1,1268 @@
+{
+    "products": [
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/new-styles_600x.jpg?v=1614331357",
+            "title": "Best Cloths Online",
+            "text": "NEW STYLE"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/pre-fall-accesories_600x.jpg?v=1614331357",
+            "title": "Pre-Fall Collection ",
+            "text": "ACCESSORIES"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/gant-shoes_600x.jpg?v=1614331357",
+            "title": "Best Brand",
+            "text": "ELEGANT SHOWS"
+        }
+    ],
+    "women": [
+        {
+            "id": 1,
+            "img1": "https://avon-demo.myshopify.com/cdn/shop/products/4_dcef33e6-b45c-4465-a6cc-9137ddadc91a_1800x1800.jpg?v=1561437914",
+            "img2": "https://avon-demo.myshopify.com/cdn/shop/products/1_761993f7-4c94-4c0c-9982-380474442645_1800x1800.jpg?v=1561437914",
+            "img3": "https://avon-demo.myshopify.com/cdn/shop/products/2_c817cb40-e12f-4d8b-9822-ebe0f2083b4c_1800x1800.jpg?v=1561437914",
+            "img4": "https://avon-demo.myshopify.com/cdn/shop/products/3_73d7c774-fb7c-4a5a-9fe3-877f908c3c68_1800x1800.jpg?v=1561437914",
+            "img5": "https://avon-demo.myshopify.com/cdn/shop/products/Untitled-1_f20990a9-038f-4b4f-95d7-1a4fa62337d7_1800x1800.jpg?v=1561437914",
+            "img6": "https://avon-demo.myshopify.com/cdn/shop/products/7_75d78c00-5b4f-4b33-9974-8f886b3488dd_1800x1800.jpg?v=1561437914",
+            "img7": "https://avon-demo.myshopify.com/cdn/shop/products/8_e6a6a027-5d49-4549-94c0-ff0c06014028_1800x1800.jpg?v=1561437914",
+            "img8": "https://avon-demo.myshopify.com/cdn/shop/products/6_5c100a25-9ba6-4b75-8628-b32fef9eab33_1800x1800.jpg?v=1561437914",
+            "title": "Moonlight Bay Knit",
+            "price": 300
+        },
+        {
+            "id": 2,
+            "img1": "https://avon-demo.myshopify.com/cdn/shop/products/8_d74500ed-dd16-4711-b826-3c25f5651c8a_1800x1800.jpg?v=1616747573",
+            "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2_9e9f51a6-1d27-4e12-b407-119e80626039_1800x1800.jpg?v=1616747573",
+            "img3": "https://avon-demo.myshopify.com/cdn/shop/products/1_e43993e2-a13a-4ed0-94d0-1a2e55ad9482_600x.jpg?v=1616747573",
+            "img4": "https://avon-demo.myshopify.com/cdn/shop/products/3_5d8dacbc-0c62-4218-adbe-c97dcc8e9740_1800x1800.jpg?v=1616747573",
+            "img5": "https://avon-demo.myshopify.com/cdn/shop/products/4_9dbabbdf-ed01-42f6-8fe5-ed3ef6a2f78e_1800x1800.jpg?v=1616747573",
+            "img6": "https://avon-demo.myshopify.com/cdn/shop/products/5_7919ae30-e68b-454b-803c-aa58b2bfe372_1800x1800.jpg?v=1616747573",
+            "img7": "https://avon-demo.myshopify.com/cdn/shop/products/6_125103e8-5ffd-4b2d-bfe1-ebd3fc594c83_1800x1800.jpg?v=1616747573",
+            "img8": "https://avon-demo.myshopify.com/cdn/shop/products/7_fd81dfcd-7f24-471d-87ac-df2deaf1efa8_600x.jpg?v=1616747573",
+            "title": "Button Up Top Black",
+            "price": 800.00
+        },
+        {
+            "id": 3,
+            "img1": "https://avon-demo.myshopify.com/cdn/shop/products/8_600x.jpg?v=1570425112",
+            "img2": "https://avon-demo.myshopify.com/cdn/shop/products/4_b2f0e752-be97-45aa-8740-7f1e563ef245_1800x1800.jpg?v=1570425112",
+            "img3": "https://avon-demo.myshopify.com/cdn/shop/products/3_2d96c249-245e-4924-90f3-d89ace8f3822_1800x1800.jpg?v=1570425112",
+            "img4": "https://avon-demo.myshopify.com/cdn/shop/products/7_1800x1800.jpg?v=1570425112",
+            "img5": "https://avon-demo.myshopify.com/cdn/shop/products/9_600x.jpg?v=1570425112",
+            "img6": "https://avon-demo.myshopify.com/cdn/shop/products/2_7a181fbd-faa5-4002-b1d7-5e21b9ece12c_1800x1800.jpg?v=1677659657",
+            "img7": "https://avon-demo.myshopify.com/cdn/shop/products/1_3623a4ce-ecd7-4c16-b426-00b7572a0b7e_1800x1800.jpg?v=1677659657",
+            "img8": "https://avon-demo.myshopify.com/cdn/shop/products/7_0d14becc-f97f-442d-b5c1-6446b717575b_1800x1800.jpg?v=1677659657",
+            "title": "Innerbloom Puffer Jacket",
+            "price": 500.00
+        },
+        {
+            "id": 4,
+            "img1": "https://avon-demo.myshopify.com/cdn/shop/products/1_ad3b5994-221c-4300-86d8-9d8cf96459ed_600x.jpg?v=1561438589",
+            "img2": "https://avon-demo.myshopify.com/cdn/shop/products/6_1436d4cd-cab1-41e2-b61c-cb659d54f29e_1800x1800.jpg?v=1561438589",
+            "title": "Women Shorts",
+            "price": 300.00
+        },
+        {
+            "id": 5,
+            "img1": "https://avon-demo.myshopify.com/cdn/shop/products/2_1a611dfc-2af7-4975-a79c-a53da36286db_1800x1800.jpg?v=1559911362",
+            "img2": "https://avon-demo.myshopify.com/cdn/shop/products/3_be677298-88bb-4c2f-919c-caa643141421_1800x1800.jpg?v=1559911362",
+            "title": "Night Runner Pants",
+            "price": 300.00
+        }
+    ],
+
+    
+    "dropdown": [
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/home-01_400x.jpg?v=15635130711886098733",
+            "title": "Home 01",
+            "category": "home"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/home-02_400x.jpg?v=17198319704470938920",
+            "title": "Home 02",
+            "category": "home"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/home-03_400x.jpg?v=10530291197097950491",
+            "title": "Home 03",
+            "category": "home"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/home-04_400x.jpg?v=14431765216091054055",
+            "title": "Home 04",
+            "category": "home"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/home-05_400x.jpg?v=10297607207971758832",
+            "title": "Home 05",
+            "category": "home"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/home-06_400x.jpg?v=4832585433253448449",
+            "title": "Home 06",
+            "category": "home"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/home-07_400x.jpg?v=4896640931422502085",
+            "title": "Home 07",
+            "category": "home"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/home-08_400x.jpg?v=4762067015421815288",
+            "title": "Home 08",
+            "category": "home"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/home-09_400x.jpg?v=18405094834040638106",
+            "title": "Home 09",
+            "category": "home"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/home-10_400x.jpg?v=13854548073578296605",
+            "title": "Home 10",
+            "category": "home"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/home-11_400x.jpg?v=13762118849095534828",
+            "title": "Home 11",
+            "category": "home"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/home-12_400x.jpg?v=10086655341905794541",
+            "title": "Home 12",
+            "category": "home"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/home-13_400x.jpg?v=8380321730337679332",
+            "title": "Home 13",
+            "category": "home"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/home-14_400x.jpg?v=12666019237521586755",
+            "title": "Home 14",
+            "category": "home"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/home-15_400x.jpg?v=5855732605150034013",
+            "title": "Home 15",
+            "category": "home"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/home-16_400x.jpg?v=3209829782209220398",
+            "title": "Home 16",
+            "category": "home"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/home-17_400x.jpg?v=13526281506117958703",
+            "title": "Home 17",
+            "category": "home"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/home-18_400x.jpg?v=3966110718029908303",
+            "title": "Home 18",
+            "category": "home"
+        },
+        {
+            "category": "women",
+            "img": "https://avon-demo.myshopify.com/cdn/shop/products/8_100x.jpg?v=1570425112",
+            "title": "Innerbloom Puffer Jacket",
+            "totalPrice": "$750.00",
+            "currentPrice": "$479.00",
+            "subCategory": "collection"
+        },
+        {
+            "category": "women",
+            "img": "https://avon-demo.myshopify.com/cdn/shop/products/2_b453e6ad-c5b6-4a87-acec-7d570d1e28e2_100x.jpg?v=1559885946",
+            "title": "Martha Knit Top",
+            "currentPrice": "$300.00",
+            "subCategory": "collection"
+        },
+        {
+            "category": "women",
+            "img": "https://avon-demo.myshopify.com/cdn/shop/products/8_d74500ed-dd16-4711-b826-3c25f5651c8a_100x.jpg?v=1616747573",
+            "title": "Button Up Top Black",
+            "currentPrice": "$800.00",
+            "subCategory": "collection"
+        },
+        {
+            "category": "women",
+            "img": "https://avon-demo.myshopify.com/cdn/shop/products/Grey_150x.jpg?v=1556259137",
+            "title": "Backpack With Contrast Bow",
+            "currentPrice": "$70.00",
+            "subCategory": "collection"
+        },
+        {
+            "category": "women",
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/2_82449b71-915b-4d97-b75e-e52e3e100760_360x.png?v=1614328020",
+            "title": "SHOP NEW ARRIVALS",
+            "discription": "Shop our new arrivals from emerging and established brands all over the globe",
+            "subCategory": "new-arrival"
+        },
+        {
+            "subCategory": "collectionShop",
+            "title": "COLLECTION LIST",
+            "category": "shop",
+            "collection": [
+                {
+                    "item": "2 Columns"
+                },
+                {
+                    "item": "3 Columns"
+                },
+                {
+                    "item": "4 Columns"
+                },
+                {
+                    "item": "5 Columns"
+                },
+                {
+                    "item": "6 Columns Fullwidth"
+                },
+                {
+                    "item": "7 Columns"
+                },
+                {
+                    "item": "Sub Collection List"
+                },
+                {
+                    "item": "Sub Collection Menu "
+                },
+                {
+                    "item": "Brand List Page "
+                }
+            ]
+        },
+        {
+            "subCategory": "collectionShop",
+            "title": "SIDEBAR OPTIONS",
+            "category": "shop",
+            "collection": [
+                {
+                    "item": "Dynamic Filters"
+                },
+                {
+                    "item": "Left Sidebar"
+                },
+                {
+                    "item": "Right Sidebar"
+                },
+                {
+                    "item": "Fullwidth/No Sidebar"
+                },
+                {
+                    "item": "No Sidebar/No Filter"
+                },
+                {
+                    "item": "Products grid up to 7"
+                },
+                {
+                    "item": "Collection Countdown"
+                },
+                {
+                    "item": "List View"
+                }
+            ]
+        },
+        {
+            "subCategory": "collectionShop",
+            "title": "HEADING STYLES",
+            "category": "shop",
+            "collection": [
+                {
+                    "item": "Category Slideshow"
+                },
+                {
+                    "item": "Simple Heading"
+                },
+                {
+                    "item": "Small Heading"
+                },
+                {
+                    "item": "Big Heading With Image"
+                },
+                {
+                    "item": "Heading With Banner#1"
+                },
+                {
+                    "item": "Heading With Banner#2"
+                }
+            ]
+        },
+        {
+            "subCategory": "collectionShop",
+            "title": "POPULAR FEATURES",
+            "category": "shop",
+            "collection": [
+                {
+                    "item": "Infinite Scroll"
+                },
+                {
+                    "item": "Ajax Load More"
+                },
+                {
+                    "item": "Countdown"
+                },
+                {
+                    "item": "Grid Style 1"
+                },
+                {
+                    "item": "Grid Style 2"
+                },
+                {
+                    "item": "Grid Style 3"
+                }
+            ]
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/1_206cfbaa-d8ed-49b7-91fd-fd054e63f8e6.jpg?v=1614331152",
+            "subCategory": "shopnow",
+            "category": "shop"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/2_12d0b8ca-be92-4657-a37e-b72b1ec6a6f7.jpg?v=1614331152",
+            "subCategorygory": "shopnow",
+            "category": "shop"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/3_7d09992a-769f-42f0-b1d7-81557354d464.jpg?v=1614331152",
+            "subCategory": "shopnow",
+            "category": "shop"
+        },
+        {
+            "category": "features",
+            "title": "PRODUCT PAGE",
+            "collestion": [
+                {
+                    "item": "Layout 1"
+                },
+                {
+                    "item": "Layout 2"
+                },
+                {
+                    "item": "Layout 3"
+                },
+                {
+                    "item": "Layout 4"
+                },
+                {
+                    "item": "Layout 5"
+                },
+                {
+                    "item": "Layout 6"
+                },
+                {
+                    "item": "Accordion"
+                },
+                {
+                    "item": "Tabs Left"
+                },
+                {
+                    "item": "Tabs Center"
+                },
+                {
+                    "item": "Thumbnails Left"
+                }
+            ]
+        },
+        {
+            "category": "features",
+            "title": "PRODUCT IMAGES",
+            "collestion": [
+                {
+                    "item": "Thumbnails Right"
+                },
+                {
+                    "item": "Thumbnails Bottom"
+                },
+                {
+                    "item": "Variable Color"
+                },
+                {
+                    "item": "Variable Image"
+                },
+                {
+                    "item": "Variable Select"
+                },
+                {
+                    "item": "Swatch Styles"
+                },
+                {
+                    "item": "Custom Option "
+                },
+                {
+                    "item": "Featured Text "
+                },
+                {
+                    "item": "Product 3D, AR models"
+                },
+                {
+                    "item": "Thumbnail Video"
+                }
+            ]
+        },
+        {
+            "category": "features",
+            "title": "POPULAR FEATURES",
+            "collestion": [
+                {
+                    "item": "Complete Look "
+                },
+                {
+                    "item": "More Colors New"
+                },
+                {
+                    "item": "Group Products"
+                },
+                {
+                    "item": "Upsell Bundle "
+                },
+                {
+                    "item": "Countdown Hot"
+                },
+                {
+                    "item": "Sale Product"
+                },
+                {
+                    "item": "Product Inquiry"
+                },
+                {
+                    "item": "Promo Text"
+                },
+                {
+                    "item": "Sticky Cart"
+                },
+                {
+                    "item": "Special Note New"
+                }
+            ]
+        },
+        {
+            "category": "features",
+            "title": "HEADER/FOOTERS",
+            "collestion": [
+                {
+                    "item": "Header Style 1"
+                },
+                {
+                    "item": "Header Style 2"
+                },
+                {
+                    "item": "Header Style 3"
+                },
+                {
+                    "item": "View All Headers"
+                },
+                {
+                    "item": "Footer Style 1"
+                },
+                {
+                    "item": "Footer Style 2"
+                },
+                {
+                    "item": "Footer Style 3"
+                },
+                {
+                    "item": "View All Footers"
+                },
+                {
+                    "item": "Product Pre-order"
+                }
+            ]
+        },
+        {
+            "category": "features",
+            "title": "THEME ELEMENTS",
+            "collestion": [
+                {
+                    "item": "Scrolling Text "
+                },
+                {
+                    "item": "Megamenu"
+                },
+                {
+                    "item": "Carousels"
+                },
+                {
+                    "item": "Testimonials"
+                },
+                {
+                    "item": "Instagram Shop"
+                },
+                {
+                    "item": "Instagram Gallery"
+                },
+                {
+                    "item": "Lookbook Shop"
+                },
+                {
+                    "item": "Section Title"
+                },
+                {
+                    "item": "Collection List"
+                },
+                {
+                    "item": "Grid Banners"
+                }
+            ]
+        },
+        {
+            "category": "collection",
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/just-in_360x.png?v=1614328020",
+            "title": "SHOP JUST IN",
+            "collection": [
+                {
+                    "item": "Pellentes Habitanto"
+                },
+                {
+                    "item": "Bibendumetos"
+                },
+                {
+                    "item": "SenectusSenectus"
+                },
+                {
+                    "item": "Consequatod"
+                },
+                {
+                    "item": "Scelerisque Yurnas"
+                },
+                {
+                    "item": "Loremouticas"
+                }
+            ]
+        },
+        {
+            "category": "collection",
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/shop-shoes_360x.png?v=1614330955",
+            "title": "SHOP BEST SELLER",
+            "collection": [
+                {
+                    "item": "Pellentes Habitanto"
+                },
+                {
+                    "item": "Bibendumetos"
+                },
+                {
+                    "item": "SenectusSenectus"
+                },
+                {
+                    "item": "Consequatod"
+                },
+                {
+                    "item": "Scelerisque Yurnas"
+                },
+                {
+                    "item": "Loremouticas"
+                }
+            ]
+        },
+        {
+            "category": "collection",
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/crop-top_360x.png?v=1614330955",
+            "title": "SHOP CROP TOP",
+            "collection": [
+                {
+                    "item": "Pellentes Habitanto"
+                },
+                {
+                    "item": "Bibendumetos"
+                },
+                {
+                    "item": "SenectusSenectus"
+                },
+                {
+                    "item": "Consequatod"
+                },
+                {
+                    "item": "Scelerisque Yurnas"
+                },
+                {
+                    "item": "Loremouticas"
+                }
+            ]
+        },
+        {
+            "category": "collection",
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/men_360x.png?v=1614328020",
+            "title": "MENS",
+            "collection": [
+                {
+                    "item": "Pellentes Habitanto"
+                },
+                {
+                    "item": "Bibendumetos"
+                },
+                {
+                    "item": "SenectusSenectus"
+                },
+                {
+                    "item": "Consequatod"
+                },
+                {
+                    "item": "Scelerisque Yurnas"
+                },
+                {
+                    "item": "Loremouticas"
+                }
+            ]
+        },
+        {
+            "category": "collection",
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/bags_360x.png?v=1614328020",
+            "title": "NEW IN BAGS",
+            "collection": [
+                {
+                    "item": "Pellentes Habitanto"
+                },
+                {
+                    "item": "Bibendumetos"
+                },
+                {
+                    "item": "SenectusSenectus"
+                },
+                {
+                    "item": "Consequatod"
+                },
+                {
+                    "item": "Scelerisque Yurnas"
+                },
+                {
+                    "item": "Loremouticas"
+                }
+            ]
+        }
+    ],
+    "pdp": [
+        {
+            "id": "product-1",
+            "imag": "https://avon-demo.myshopify.com/cdn/shop/collections/collection-bnr-bg_900x.jpg?v=1657090394",
+            "images": [
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/8_350x.jpg?v=1570425112",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/4_b2f0e752-be97-45aa-8740-7f1e563ef245_350x.jpg?v=1570425112",
+                    "title": "Innerbloom Puffer Jacket",
+                    "price": "$479.00",
+                    "color": "",
+                    "Brand": "Croock",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Lowest_Price": "Lowest Price",
+                    "Old_to_New": "Old to New",
+                    "Product_Type": "Jacket",
+                    "discription": "A little crisp, a little sunny, warm enough to skip a coat, just cool enough to wrap great cashmere around is this asymmetrical jumper. With a chic hue, this one makes for a perfect pick this fall. So get your..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/2_b453e6ad-c5b6-4a87-acec-7d570d1e28e2_350x.jpg?v=1559885946",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/3_c4d303b9-5213-4f36-a95a-bb7406b3d010_350x.jpg?v=1559885946",
+                    "title": "Martha Knit Top",
+                    "price": "$300.00",
+                    "color": "",
+                    "Brand": "Croock",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Z_A": "Z-A",
+                    "Highest_Price": "Highest Price",
+                    "Old_to_New": "Old to New",
+                    "Product_Type": "Dress",
+                    "discription": "A little crisp, a little sunny, warm enough to skip a coat, just cool enough to wrap great cashmere around is this asymmetrical jumper. With a chic hue, this one makes for a perfect pick this fall. So get your..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/8_d74500ed-dd16-4711-b826-3c25f5651c8a_350x.jpg?v=1616747573",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2_9e9f51a6-1d27-4e12-b407-119e80626039_350x.jpg?v=1616747573",
+                    "title": "Button Up Top Black",
+                    "price": "$800.00",
+                    "color": "",
+                    "Brand": "Amyar",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Z_A": "Z-A",
+                    "Lowest_Price": "Lowest Price",
+                    "New_to_Old": "New to Old",
+                    "Product_Type": "Dress",
+                    "discription": "A little crisp, a little sunny, warm enough to skip a coat, just cool enough to wrap great cashmere around is this asymmetrical jumper. With a chic hue, this one makes for a perfect pick this fall. So get your..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/Grey_350x.jpg?v=1556259137",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/BLACK_350x.jpg?v=1556259137",
+                    "title": "Backpack With Contrast Bow",
+                    "price": "$70.00",
+                    "color": "",
+                    "Brand": "Cruciani",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Z_A": "Z-A",
+                    "Highest_Price": "Highest Price",
+                    "Product_Type": "Bag",
+                    "New_to_Old": "New to Old",
+                    "discription": "Avone is a ultimate multipurpose shopify theme that will give you and your customers a smooth shopping experience which can be used for various kinds of stores such as boutiques, bookstores, technology stores, jewelries and other types of web shops..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/1_d09ed961-4abd-4e74-90ed-2f76907ebff5_350x.jpg?v=1559884503",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/5_f203255a-3ab0-4fd4-a243-44fda38325b1_350x.jpg?v=1559884503",
+                    "title": "Toledo Mules shoes",
+                    "price": "$200.00",
+                    "color": "",
+                    "Brand": "Givenchy",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Product_Type": "Shoes",
+                    "Z_A": "Z-A",
+                    "Lowest_Price": "Lowest Price",
+                    "discription": "Avon is a ultimate multipurpose shopify theme. It is a beautiful, highly customizable and super fast theme with functionality to increase conversions. Avon will give you and your customers a smooth shopping experience which can be used for various kinds..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/565_350x.jpg?v=1559887124",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/3_636f9c88-90f4-42d4-9b80-b60121b3bd02_350x.jpg?v=1683626718",
+                    "title": "Sunset Sleep Scarf Top",
+                    "price": "$600.00",
+                    "color": "",
+                    "Brand": "Charcoal",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Product_Type": "Dress",
+                    "Z_A": "Z-A",
+                    "Highest_Price": "Highest Price",
+                    "New_to_Old": "New to Old",
+                    "discription": "The construction lifts and smooths, giving your rear assets all they need for an amped-up style that screams sex appeal from every angle. With a chic hue, this one makes for a perfect pick this fall. So get your basics..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/blue_350x.jpg?v=1556198219",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2_7369d5cc-4fcd-46e8-a015-85d2d49f4230_350x.jpg?v=1556198219",
+                    "title": "High Neck Ribbed Knit",
+                    "price": "$600.00",
+                    "color": "",
+                    "Brand": "Cruciani",
+                    "Featured": "Featured",
+                    "Best_Selling": "Best Selling",
+                    "Z_A": "Z-A",
+                    "Lowest_Price": "Lowest Price",
+                    "Old_to_New": "Old to New",
+                    "Product_Type": "Top",
+                    "discription": "A little crisp, a little sunny, warm enough to skip a coat, just cool enough to wrap great cashmere around is this asymmetrical jumper. With a chic hue, this one makes for a perfect pick this fall. So get your..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/BLACK_f0345b97-e211-4963-b2ef-60942f8c0f6f_350x.jpg?v=1556259020",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/PINNK_350x.jpg?v=1556259020",
+                    "title": "Trim Straw Floppy Hat",
+                    "price": "$80.00",
+                    "color": "",
+                    "Brand": "Givenchy",
+                    "Featured": "Featured",
+                    "Best_Selling": "Best Selling",
+                    "Z_A": "Z-A",
+                    "Highest_Price": "Highest Price",
+                    "New_to_Old": "New to Old",
+                    "Old_to_New": "Old to New",
+                    "discription": "Avon is a ultimate multipurpose shopify theme. It is a beautiful, highly customizable and super fast theme with functionality to increase conversions. Avon will give you and your customers a smooth shopping experience which can be used for various kinds...",
+                    "Product_Type": "Accessories"
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/black_9da57855-3843-434f-838b-e810ee75dde5_350x.jpg?v=1556182279",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/black-2_03384016-11a1-482b-ab2d-73a8e275b0ca_350x.jpg?v=1556182279",
+                    "title": "Metal Buckle Skinny Belt",
+                    "price": "$100.00",
+                    "color": "",
+                    "Brand": "Angel",
+                    "Featured": "Featured",
+                    "Best_Selling": "Best Selling",
+                    "Z_A": "Z-A",
+                    "Lowest_Price": "Lowest Price",
+                    "Product_Type": "Accessories",
+                    "discription": "Avon is a ultimate multipurpose shopify theme. It is a beautiful, highly customizable and super fast theme with functionality to increase conversions. Avon will give you and your customers a smooth shopping experience which can be used for various kinds..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/1_28c6356e-fde5-4a49-8342-649f2df635b1_350x.jpg?v=1556109398",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/3_dd832ab1-0a25-4dc9-98d9-ef4a1583d726_350x.jpg?v=1556109399",
+                    "title": "Design Cuff Bracelet",
+                    "price": "$100.00",
+                    "color": "",
+                    "Brand": "Valentino",
+                    "Featured": "Featured",
+                    "Best_Selling": "Best Selling",
+                    "Highest_Price": "Highest Price",
+                    "New_to_Old": "New to Old",
+                    "Old_to_New": "Old to New",
+                    "Product_Type": "Accessories",
+                    "discription": "Avon is a ultimate multipurpose shopify theme. It is a beautiful, highly customizable and super fast theme with functionality to increase conversions. Avon will give you and your customers a smooth shopping experience which can be used for various kinds..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/1_7aebf388-407d-458e-8aa6-0494a116eec3_350x.jpg?v=1556182402",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2_49fcc79a-cecb-4d09-8400-bf10a89b9c27_350x.jpg?v=1556182403",
+                    "title": "Footprint Pendant Necklace",
+                    "price": "$100.00",
+                    "color": "",
+                    "Brand": "Camper",
+                    "Featured": "Featured",
+                    "Best_Selling": "Best Selling",
+                    "Lowest_Price": "Lowest Price",
+                    "Old_to_New": "Old to New",
+                    "Product_Type": "Accessories",
+                    "discription": "Avon is a ultimate multipurpose shopify theme. It is a beautiful, highly customizable and super fast theme with functionality to increase conversions. Avon will give you and your customers a smooth shopping experience which can be used for various kinds..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/1_44fe3c8f-879b-4ea9-87f8-ef47d93870dd_350x.jpg?v=1556178707",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2_9edb4186-9f76-4600-aa42-90a1aea75dff_350x.jpg?v=1556178707",
+                    "title": "Top Slip On Velcro Sneakers",
+                    "price": "$200.00",
+                    "color": "",
+                    "Brand": "Givenchy",
+                    "Featured": "Featured",
+                    "Best_Selling": "Best Selling",
+                    "Highest_Price": "Highest Price",
+                    "Product_Type": "Shoes",
+                    "New_to_Old": "New to Old",
+                    "discription": "Avon is a ultimate multipurpose shopify theme. It is a beautiful, highly customizable and super fast theme with functionality to increase conversions. Avon will give you and your customers a smooth shopping experience which can be used for various kinds..."
+                }
+            ]
+        },
+        {
+            "id": "product-2",
+            "imag": "https://avon-demo.myshopify.com/cdn/shop/collections/3_1_900x.jpg?v=1680691014",
+            "images": [
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/1_063ca344-4c7a-49a3-9175-2460debdbd89_350x.jpg?v=1543404551",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2_350x.jpg?v=1543404553",
+                    "title": "Sandals Cross Strappy",
+                    "price": "$50.00",
+                    "color": "",
+                    "Brand": "Olukai",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Lowest_Price": "Lowest Price",
+                    "Old_to_New": "Old to New",
+                    "Product_Type": "women's shoes",
+                    "discription": "The sandals is a classic open-toed design,a non-slip rubber sole to confirm your every step safely and easy to move. select each material carefully,we believe that only good material and workmanship could make good shoes,we always insist this point.so as to endow them with pure,let the charm bloom.Heel Height: 11cm (4.5 Inches),Sole Width :8CM (3.1 Inches),Shaft Height:7CM (2.7 Inches).Perfect for party,wedding,bridal and evening Standard Size.But some buyers..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/Two-Part-Ankle-Strap_e9f8c2e3-62d3-405e-8d15-cd3d1f54c00c_350x.jpg?v=1543405126",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2_43686d5a-d314-440a-94db-e1ce2b3a477d_350x.jpg?v=1543405126",
+                    "title": "Two Part Stiletto Heels",
+                    "price": "$70.00",
+                    "color": "",
+                    "Brand": "Olukai",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Z_A": "Z-A",
+                    "Highest_Price": "Highest Price",
+                    "Old_to_New": "Old to New",
+                    "Product_Type": "women's shoes",
+                    "discription": "Avon is a ultimate multipurpose shopify theme. It is a beautiful, highly customizable and super fast theme with functionality to increase conversions. Avon will give you and your customers a smooth shopping experience which can be used for various kinds...  "
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/Buckle-Strap-Slingback-Heels_350x.jpg?v=1543405081",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2_dbd75075-4159-443d-bb77-b873c63f6fd4_350x.jpg?v=1543405081",
+                    "title": "Two Part Ankle Strap",
+                    "price": "$45.00",
+                    "color": "",
+                    "Brand": "Olukai",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Z_A": "Z-A",
+                    "Lowest_Price": "Lowest Price",
+                    "New_to_Old": "New to Old",
+                    "Product_Type": "women's shoes",
+                    "discription": "Avon is a ultimate multipurpose shopify theme. It is a beautiful, highly customizable and super fast theme with functionality to increase conversions. Avon will give you and your customers a smooth shopping experience which can be used for various kinds..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/1_2c92a808-394d-4ab8-adfa-90463bcffdb9_350x.jpg?v=1543404722",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2_67ceebaa-0bed-4a14-8c3e-8b927f379e87_350x.jpg?v=1543404724",
+                    "title": "Block High Heel - Formal",
+                    "price": "$30.00",
+                    "color": "",
+                    "Brand": "Kalaty",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Z_A": "Z-A",
+                    "Lowest_Price": "Lowest Price",
+                    "Product_Type": "women's shoes",
+                    "discription": "Avon is a ultimate multipurpose shopify theme. It is a beautiful, highly customizable and super fast theme with functionality to increase conversions. Avon will give you and your customers a smooth shopping experience which can be used for various kinds..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/Slingbacks-Stiletto-Heels_350x.jpg?v=1543404877",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2_7cf35ada-523f-4a91-9690-f596671633b5_350x.jpg?v=1543404877",
+                    "title": "Slingbacks Stiletto Heels",
+                    "price": "$30.00",
+                    "color": "",
+                    "Brand": "Olukai",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Z_A": "Z-A",
+                    "Highest_Price": "Highest Price",
+                    "New_to_Old": "New to Old",
+                    "Product_Type": "women's shoes",
+                    "discription": "Avon is a ultimate multipurpose shopify theme. It is a beautiful, highly customizable and super fast theme with functionality to increase conversions. Avon will give you and your customers a smooth shopping experience which can be used for various kinds..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/Detail-Pointed-Toe-Kitten-Heels_350x.jpg?v=1543405016",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2_c2615bd1-0c46-494d-b3f3-ddc83cbf2c6d_350x.jpg?v=1543405016",
+                    "title": "Detail Pointed Toe Kitten Heels",
+                    "price": "$40.00",
+                    "color": "",
+                    "Brand": "Kalaty",
+                    "Featured": "Featured",
+                    "Best Selling": "Best Selling",
+                    "Z_A": "Z-A",
+                    "Lowest_Price": "Lowest Price",
+                    "Old_to_New": "Old to New",
+                    "Product_Type": "women's shoes",
+                    "discription": "Avon is a ultimate multipurpose shopify theme. It is a beautiful, highly customizable and super fast theme with functionality to increase conversions. Avon will give you and your customers a smooth shopping experience which can be used for various kinds..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/Pointed-Toe-Ankle-Strap_350x.jpg?v=1543404799",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2_aa4775db-644c-4b05-b409-984ecc4b93a5_350x.jpg?v=1543404799",
+                    "title": "Pointed Toe Ankle Strap",
+                    "price": "$30.00",
+                    "color": "",
+                    "Brand": "Kalaty",
+                    "Featured": "Featured",
+                    "Best_Selling": "Best Selling",
+                    "Z_A": "Z-A",
+                    "Highest_Price": "Highest Price",
+                    "New_to_Old": "New to Old",
+                    "Old_to_New": "Old to New",
+                    "Product_Type": "women's shoes",
+                    "discription": "KalatyThe sandals is a classic open-toed design,a non-slip rubber sole to confirm your every step safely and easy to move. select each material carefully,we believe that only good material and workmanship could make good shoes,we always insist this point.so as to endow them with pure,let the charm bloom.Heel Height: 11cm (4.5 Inches),Sole Width :8CM (3.1 Inches),Shaft Height:7CM (2.7 Inches).Perfect for party,wedding,bridal and evening Standard Size.But some buyers..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/Strap-Stiletto-Heels_350x.jpg?v=1543404954",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2_8ff9dee7-a8eb-41e9-b727-387d3d2897d9_350x.jpg?v=1543404954",
+                    "title": "Strap Stiletto Heels",
+                    "price": "$60.00",
+                    "color": "",
+                    "Brand": "Olukai",
+                    "Featured": "Featured",
+                    "Best_Selling": "Best Selling",
+                    "Z_A": "Z-A",
+                    "Lowest_Price": "Lowest Price",
+                    "Product_Type": "women's shoes",
+                    "discription": "Avon is a ultimate multipurpose shopify theme. It is a beautiful, highly customizable and super fast theme with functionality to increase conversions. Avon will give you and your customers a smooth shopping experience which can be used for various kinds..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/21._350x.jpg?v=1584944777",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2.2_c577936c-e860-4c2e-b21c-05ad4b4feaac_350x.jpg?v=1584944777",
+                    "title": "Silver Heeled Sandals",
+                    "price": "$50.00",
+                    "color": "",
+                    "Brand": "Guess",
+                    "Featured": "Featured",
+                    "Best_Selling": "Best Selling",
+                    "Highest_Price": "Highest Price",
+                    "New_to_Old": "New to Old",
+                    "Old_to_New": "Old to New",
+                    "Product_Type": "Shoes",
+                    "discription": "Avone is a ultimate multipurpose shopify theme that will give you and your customers a smooth shopping experience which can be used for various kinds of stores such as boutiques, bookstores, technology stores, jewelries and other types of web shops...."
+                }
+            ]
+        },
+        {
+            "id": "product-4",
+            "imag": "https://avon-demo.myshopify.com/cdn/shop/collections/accessories.jpg?v=1561465231",
+            "images": [
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/BLACK_f0345b97-e211-4963-b2ef-60942f8c0f6f_350x.jpg?v=1556259020",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/PINNK_350x.jpg?v=1556259020",
+                    "title": "Trim Straw Floppy Hat",
+                    "price": "$80.00",
+                    "color": "",
+                    "Brand": "Camper",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Lowest_Price": "Lowest Price",
+                    "Old_to_New": "Old to New",
+                    "Product_Type": "Accessories",
+                    "discription": "Avon is a ultimate multipurpose shopify theme. It is a beautiful, highly customizable and super fast theme with functionality to increase conversions. Avon will give you and your customers a smooth shopping experience which can be used for various kinds..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/1_28c6356e-fde5-4a49-8342-649f2df635b1_350x.jpg?v=1556109398",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/3_dd832ab1-0a25-4dc9-98d9-ef4a1583d726_350x.jpg?v=1556109399",
+                    "title": "Design Cuff Bracelet",
+                    "price": "$100.00",
+                    "color": "",
+                    "Brand": "Camper",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Z_A": "Z-A",
+                    "Highest_Price": "Highest Price",
+                    "Old_to_New": "Old to New",
+                    "Product_Type": "Accessories",
+                    "discription": "Avon is a ultimate multipurpose shopify theme. It is a beautiful, highly customizable and super fast theme with functionality to increase conversions. Avon will give you and your customers a smooth shopping experience which can be used for various kinds..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/black_9da57855-3843-434f-838b-e810ee75dde5_350x.jpg?v=1556182279",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/black-2_03384016-11a1-482b-ab2d-73a8e275b0ca_350x.jpg?v=1556182279",
+                    "title": "Metal Buckle Skinny Belt",
+                    "price": "$100.00",
+                    "color": "",
+                    "Brand": "Angel",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Z_A": "Z-A",
+                    "Lowest_Price": "Lowest Price",
+                    "Product_Type": "Accessories",
+                    "New_to_Old": "New to Old",
+                    "discription": "Avon is a ultimate multipurpose shopify theme. It is a beautiful, highly customizable and super fast theme with functionality to increase conversions. Avon will give you and your customers a smooth shopping experience which can be used for various kinds..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/1_7aebf388-407d-458e-8aa6-0494a116eec3_350x.jpg?v=1556182402",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2_49fcc79a-cecb-4d09-8400-bf10a89b9c27_350x.jpg?v=1556182403",
+                    "title": "Footprint Pendant Necklace",
+                    "price": "$100.00",
+                    "color": "",
+                    "Brand": "Camper",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Z_A": "Z-A",
+                    "Product_Type": "Accessories",
+                    "Lowest_Price": "Lowest Price",
+                    "discription": "Avon is a ultimate multipurpose shopify theme. It is a beautiful, highly customizable and super fast theme with functionality to increase conversions. Avon will give you and your customers a smooth shopping experience which can be used for various kinds..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/4.2_350x.jpg?v=1630672160",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/4.3_350x.jpg?v=1630672160",
+                    "title": "Silver Bag",
+                    "price": "$40.00",
+                    "color": "",
+                    "Brand": "Fiyama",
+                    "Featured": "Featured",
+                    "Best_Selling": "Best Selling",
+                    "Z_A": "Z-A",
+                    "Highest_Price": "Highest Price",
+                    "Product_Type": "Bag",
+                    "New_to_Old": "New to Old",
+                    "Old_to_New": "Old to New",
+                    "discription": "Avone is a ultimate multipurpose shopify theme that will give you and your customers a smooth shopping experience which can be used for various kinds of stores such as boutiques, bookstores, technology stores, jewelries and other types of web shops...."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/3.4_d11775f2-3c81-4356-b65f-e4c408c24d13_350x.jpg?v=1584944863",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/3.1_350x.jpg?v=1584944863",
+                    "title": "Silver Tone Earrings",
+                    "price": "$30.00",
+                    "color": "",
+                    "Brand": "HMN",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Product_Type": "Accessories",
+                    "Z_A": "Z-A",
+                    "Highest_Price": "Highest Price",
+                    "Old_to_New": "Old to New",
+                    "discription": "Avone is a ultimate multipurpose shopify theme that will give you and your customers a smooth shopping experience which can be used for various kinds of stores such as boutiques, bookstores, technology stores, jewelries and other types of web shops...."
+                }
+            ]
+        },
+        {
+            "id": "product-5",
+            "imag": "https://avon-demo.myshopify.com/cdn/shop/collections/men.jpg?v=1561528162",
+            "images": [
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/3_ede1edc4-38e6-434e-84b6-020ecf912b6a_350x.jpg?v=1560852028",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2_6b263a94-8a1f-4a2e-8400-385a6dfb7e0f_350x.jpg?v=1560852028",
+                    "title": "Men Grey Pants",
+                    "price": "$500.00",
+                    "color": "",
+                    "Brand": "Amyar",
+                    "Product_Type": "Jacket",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Lowest_Price": "Lowest Price",
+                    "Old_to_New": "Old to New",
+                    "Best_Selling": "Best Selling",
+                    "Z_A": "Z-A",
+                    "Highest_Price": "Highest Price",
+                    "New_to_Old": "New to Old",
+                    "discription": "The construction lifts and smooths, giving your rear assets all they need for an amped-up style that screams sex appeal from every angle. With a chic hue, this one makes for a perfect pick this fall. So get your basics..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/1_92ae5e99-b7ea-4b76-a498-ada80e9fc25a_350x.jpg?v=1560851739",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2_c265381c-98e3-460a-8cdc-9592eed10a73_350x.jpg?v=1560851741",
+                    "title": "Cargo Pant",
+                    "price": "$220.00",
+                    "Product_Type": "Shoes",
+                    "color": "",
+                    "Brand": "Camper",
+                    "A_Z": "A-Z",
+                    "Lowest_Price": "Lowest Price",
+                    "Old_to_New": "Old to New",
+                    "Best_Selling": "Best Selling",
+                    "Z_A": "Z-A",
+                    "Highest_Price": "Highest Price",
+                    "New_to_Old": "New to Old",
+                    "discription": "The construction lifts and smooths, giving your rear assets all they need for an amped-up style that screams sex appeal from every angle. With a chic hue, this one makes for a perfect pick this fall. So get your basics..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/6_2a630ca4-3a8f-4c4c-a147-0b69669f63b9_350x.jpg?v=1560851092",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/7_7fc2e6b1-a387-432f-a2d2-efa52c18cc44_350x.jpg?v=1560851092",
+                    "title": "Casual Lace up Shoes",
+                    "price": "$200.00",
+                    "color": "",
+                    "Brand": "Camper",
+                    "Featured": "Featured",
+                    "Lowest_Price": "Lowest Price",
+                    "Product_Type": "Shoes",
+                    "Old_to_New": "Old to New",
+                    "Best_Selling": "Best Selling",
+                    "Z_A": "Z-A",
+                    "Highest_Price": "Highest Price",
+                    "New_to_Old": "New to Old",
+                    "discription": "The construction lifts and smooths, giving your rear assets all they need for an amped-up style that screams sex appeal from every angle. With a chic hue, this one makes for a perfect pick this fall. So get your basics..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/1_44fe3c8f-879b-4ea9-87f8-ef47d93870dd_350x.jpg?v=1556178707",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2_9edb4186-9f76-4600-aa42-90a1aea75dff_350x.jpg?v=1556178707",
+                    "title": "Top Slip On Velcro Sneakers",
+                    "price": "$200.00",
+                    "color": "",
+                    "Brand": "Charcoal",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Old_to_New": "Old to New",
+                    "Best_Selling": "Best Selling",
+                    "Product_Type": "Shoes",
+                    "Z_A": "Z-A",
+                    "Highest_Price": "Highest Price",
+                    "New_to_Old": "New to Old",
+                    "discription": "The construction lifts and smooths, giving your rear assets all they need for an amped-up style that screams sex appeal from every angle. With a chic hue, this one makes for a perfect pick this fall. So get your basics..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/1_58cf8456-b367-444a-881b-67ccb90ae4fe_350x.jpg?v=1559905397",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2_16607224-928e-470f-9ddf-6412636d506f_350x.jpg?v=1559905397",
+                    "title": "Men Striped Ringer Tee",
+                    "price": "$150.00",
+                    "color": "",
+                    "Brand": "Bruglia",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Best_Selling": "Best Selling",
+                    "Product_Type": "Tshirt",
+                    "Z_A": "Z-A",
+                    "Lowest_Price": "Lowest Price",
+                    "New_to_Old": "New to Old",
+                    "Old_to_New": "Old to New",
+                    "discription": "Avon is a ultimate multipurpose shopify theme. It is a beautiful, highly customizable and super fast theme with functionality to increase conversions. Avon will give you and your customers a smooth shopping experience which can be used for various kinds..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/8_28f73ad9-e4f1-401a-a21b-dcb0775824db_350x.jpg?v=1561439484",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/5_bd6ed3ed-d2c8-45c2-b04f-7582fd87f76e_350x.jpg?v=1561439484",
+                    "title": "Lace Up Low Top Sneakers",
+                    "price": "$120.00",
+                    "color": "",
+                    "Brand": "Givenchy",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Best_Selling": "Best Selling",
+                    "Z_A": "Z-A",
+                    "Product_Type": "Shoes",
+                    "Lowest_Price": "Lowest Price",
+                    "Highest_Price": "Highest Price",
+                    "Old_to_New": "Old to New",
+                    "discription": "Avon is a ultimate multipurpose shopify theme. It is a beautiful, highly customizable and super fast theme with functionality to increase conversions. Avon will give you and your customers a smooth shopping experience which can be used for various kinds..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/1_45ec2bbf-94ac-4118-b67e-ee0c4ba50515_350x.jpg?v=1560851836",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/3_7cc960a5-808d-4234-8f05-28b6a5dd0f3f_350x.jpg?v=1560851838",
+                    "title": "Casual Indigo Shirt",
+                    "price": "$80.00",
+                    "color": "",
+                    "Brand": "Burberry",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Best_Selling": "Best Selling",
+                    "Product_Type": "Shirts",
+                    "New_to_Old": "New to Old",
+                    "Lowest_Price": "Lowest Price",
+                    "Highest_Price": "Highest Price",
+                    "Old_to_New": "Old-to-New",
+                    "discription": "Avon is a ultimate multipurpose shopify theme. It is a beautiful, highly customizable and super fast theme with functionality to increase conversions. Avon will give you and your customers a smooth shopping experience which can be used for various kinds..."
+                }
+            ]
+        },
+        {
+            "id": "product-8",
+            "imag": "https://avon-demo.myshopify.com/cdn/shop/collections/men.jpg?v=1561528162",
+            "images": [
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/7_11472ff1-b0f3-4715-8b2b-cecd94e5f68d_350x.jpg?v=1649332638",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2_35dfc271-5eb3-43ee-b288-fe97f5460ef3_350x.jpg?v=1649332638",
+                    "title": "Drop shoulders Crop Top",
+                    "price": "$100.00",
+                    "color": "",
+                    "Brand": " Burberry",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Lowest_Price": "Lowest Price",
+                    "Product_Type": "Tshirt",
+                    "Old_to_New": "Old to New",
+                    "Best_Selling": "Best Selling",
+                    "Z_A": "Z-A",
+                    "Highest_Price": "Highest Price",
+                    "New_to_Old": "New to Old",
+                    "discription": "A little crisp, a little sunny, warm enough to skip a coat, just cool enough to wrap great cashmere around is this asymmetrical jumper. With a chic hue, this one makes for a perfect pick this fall. So get your..."
+                },
+                {
+                    "img1": "https://avon-demo.myshopify.com/cdn/shop/products/BLACK_f0345b97-e211-4963-b2ef-60942f8c0f6f_350x.jpg?v=1556259020",
+                    "img2": "https://avon-demo.myshopify.com/cdn/shop/products/PINNK_350x.jpg?v=1556259020",
+                    "title": "Trim Straw Floppy Hat",
+                    "price": "$80.00",
+                    "color": "",
+                    "Brand": "Givenchy",
+                    "Featured": "Featured",
+                    "A_Z": "A-Z",
+                    "Lowest_Price": "Lowest Price",
+                    "Product_Type": "Accessories",
+                    "Old_to_New": "Old to New",
+                    "Best_Selling": "Best Selling",
+                    "Z_A": "Z-A",
+                    "Highest_Price": "Highest Price",
+                    "New_to_Old": "New to Old",
+                    "discription": "Avon is a ultimate multipurpose shopify theme. It is a beautiful, highly customizable and super fast theme with functionality to increase conversions. Avon will give you and your customers a smooth shopping experience which can be used for various kinds..."
+                }
+            ]
+        }
+    ],
+    "bestSeller": [
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/collection-list-2-demo4_350x.jpg?v=1614331522",
+            "title": "Women"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/women-shoes_350x.jpg?v=1614330616",
+            "title": "New Arrivals"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/collection-list-1-demo4_350x.jpg?v=1614330616",
+            "title": " Mini Dress"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/collection-list-6-demo4_233b941b-5e46-4270-b2c6-98ade2340ea4_350x.jpg?v=1614331522",
+            "title": "Accessories"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/hot_350x.jpg?v=1614331522",
+            "title": "Best Seller"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/products/7_11472ff1-b0f3-4715-8b2b-cecd94e5f68d_350x.jpg?v=1649332638",
+            "title": "Popular"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/denim_350x.jpg?v=1614330558",
+            "title": " Men Denim"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/products/1_44fe3c8f-879b-4ea9-87f8-ef47d93870dd_350x.jpg?v=1556178707",
+            "title": "Men Shoes"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/products/BLACK_a1a4beb1-8d6a-41cc-a42e-9d722326bf5c_350x.jpg?v=1556187305",
+            "title": "Bag"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/products/1_45ec2bbf-94ac-4118-b67e-ee0c4ba50515_350x.jpg?v=1560851836",
+            "title": "Bottoms"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/collection-list-4-demo4_350x.jpg?v=1614331515",
+            "title": "Trendings"
+        }
+    ]
+}
